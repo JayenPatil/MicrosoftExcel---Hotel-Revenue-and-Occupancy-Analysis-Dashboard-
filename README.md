@@ -39,6 +39,5 @@ It highlights revenue trends, occupancy rates, and guest statistics using dynami
 ---
 
 ## 🖼️ Dashboard Preview
-*(Add a screenshot of your Excel dashboard here — recommended size: 1000x600px)*  
-```markdown
-![Hotel Dashboard Preview](images/hotel_dashboard.png)
+<img width="1069" height="690" alt="image" src="https://github.com/user-attachments/assets/4a5e87e2-10b4-4b49-afea-0ac213a79b72" />
+
