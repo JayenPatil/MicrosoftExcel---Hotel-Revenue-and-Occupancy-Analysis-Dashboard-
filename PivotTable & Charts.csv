@@ -1,0 +1,34 @@
+Revenue by Hotel,,,Room Type Occupancy,,,Booking Channel Contribution,
+Hotel Name,Sum of Revenue,,Room Type,Sum of Guests,,Booking Channel,Sum of Revenue
+City Lights Hotel,2210300,,Deluxe,140,,Corporate,2410696
+Grand Palace,1267257,,Double,146,,Direct,1894209
+Lakeside Retreat,2079976,,Single,160,,Online,1942642
+Mountain Inn,2074115,,Suite,162,,Travel Agent,2761972
+Sea View Resort,1377871,,Grand Total,608,,Grand Total,9009519
+Grand Total,9009519,,,,,,
+,,,,,,,
+,,,,,,,
+,,,Purpose of Stay,,,Total Revenue," $90,09,519.00 "
+,,,Purpose,Count of Booking_ID,,,
+,,,Business,71,,Total Guest,608
+,,,Conference,67,,,
+,,,Leisure,50,,Average Rating,3.71
+,,,Wedding,62,,,
+,,,Grand Total,250,,Average Stay,5.8
+,,,,,,,
+Monthly Revenue Trend,,,,,,,
+ChecK IN,Sum of Revenue,,,,,,
+2023,5715703,,,,,,
+Jan,441032,,,,,,
+Feb,445524,,,,,,
+Mar,576331,,,,,,
+Apr,528819,,,,,,
+May,335802,,,,,,
+Jun,245883,,,,,,
+Jul,755805,,,,,,
+Aug,488220,,,,,,
+Sep,482856,,,,,,
+Oct,329550,,,,,,
+Nov,454170,,,,,,
+Dec,631711,,,,,,
+Grand Total,5715703,,,,,,
