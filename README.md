@@ -27,14 +27,7 @@ It highlights revenue trends, occupancy rates, and guest statistics using dynami
 - Automated KPI summaries for quick performance tracking.  
 - Visual representation of revenue and occupancy trends over time.  
 - Simplified data interpretation for management-level decision-making.  
-
----
-
-## 🚀 How to Use
-1. Open the file **`Hotel Revenue and Occupancy Analysis Dashboard.xlsx`** in Microsoft Excel.  
-2. Navigate through different sheets or dashboards to explore visual KPIs.  
-3. Use slicers and filters to customize your view by time period or department.  
-4. Review summarized reports for quick insights on revenue and occupancy trends.  
+  
 
 ---
 
